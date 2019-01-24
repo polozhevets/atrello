@@ -1,4 +1,4 @@
-# trello_api
+# atrello
 Asynchronous Trello API Client based on AIOHTTP Client 
 
 Python 3.6+
